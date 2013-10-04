@@ -1,0 +1,29 @@
+{
+  "name": "string-substitute",
+  "version": "1.0.0",
+  "description": "String utility which substitutes {n} tokens within the specified string",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+  "mocha" : "*"
+},
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/krzysztof-o/node-string-substitute.git"
+  },
+  "keywords": [
+    "string",
+    "util",
+    "substitute"
+  ],
+  "author": "Krzysztof Opalka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krzysztof-o/node-string-substitute/issues"
+  }
+}
