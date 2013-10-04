@@ -1,6 +1,6 @@
 {
   "name": "string-substitute",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "String utility which substitutes {n} tokens within the specified string",
   "main": "index.js",
   "directories": {
